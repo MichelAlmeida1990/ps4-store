@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "PS4NES",
+      "id": "PNES00001",
+      "version": "01.00",
+      "description": "Emulador NES para PS4",
+      "image": "",
+      "url": "https://pkg-zone.com/download/ps4/PNES00001/latest"
+    },
+    {
+      "name": "RetroArch",
+      "id": "CUSB00000",
+      "version": "01.00",
+      "description": "Emulador multi-plataforma para PS4",
+      "image": "",
+      "url": "https://pkg-zone.com/download/ps4/CUSB00000/latest"
+    },
+    {
+      "name": "Remote PKG Installer",
+      "id": "FLTZ00003",
+      "version": "01.00",
+      "description": "Instalador de PKG remoto para PS4",
+      "image": "",
+      "url": "https://pkg-zone.com/download/ps4/FLTZ00003/latest"
+    },
+    {
+      "name": "PS4-Xplorer",
+      "id": "LAPY20001",
+      "version": "01.33",
+      "description": "Gerenciador de arquivos para PS4",
+      "image": "",
+      "url": "https://pkg-zone.com/download/ps4/LAPY20001/latest"
+    },
+    {
+      "name": "FPKGi",
+      "id": "FPKG00001",
+      "version": "01.10",
+      "description": "Biblioteca de PKGs para PS4",
+      "image": "",
+      "url": "https://github.com/ItsJokerZz/FPKGi/releases/latest/download/FPKGi_v1.10.0-release.pkg"
+    }
+  ]
+}
